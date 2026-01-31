@@ -17,6 +17,9 @@
 	<properties>
 		<java.version>23</java.version>
 	</properties>
+	<properties>
+	  	<sonar.organization>thatsnotmejk</sonar.organization>
+	</properties>
 	<dependencies>
 		<dependency>
 			<groupId>org.springframework.boot</groupId>
